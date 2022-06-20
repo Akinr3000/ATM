@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ATM-HEAD{
+    border: 2px solid black;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    margin: 10% 40%;
+    background-color: darkviolet;
+    border-radius: 20px;
+    
+}
+#balance{
+    text-align: end;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.ATM-HEAD h2{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    letter-spacing: 4px;
+}
+#number{
+    font-size: 25px;
+}
+.ATM-HEAD button{
+    width: 100px;
+    height: 35px;
+    border: 1px  black;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    color: white;
+    background-color: brown;
+}
+.withdraw{
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
